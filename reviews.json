@@ -1,0 +1,122 @@
+[
+  {
+    "professor": "Dr. Emily Johnson",
+    "subject": "Calculus I",
+    "stars": 5,
+    "review": "Dr. Johnson is an amazing professor! Her lectures are clear, and she's always willing to help during office hours."
+  },
+  {
+    "professor": "Prof. Michael Davis",
+    "subject": "Introduction to Psychology",
+    "stars": 4,
+    "review": "Great professor, but his exams are tough. Make sure to keep up with the readings."
+  },
+  {
+    "professor": "Dr. Sarah Lee",
+    "subject": "Organic Chemistry",
+    "stars": 3,
+    "review": "Dr. Lee knows her stuff, but her lectures can be hard to follow sometimes. Study groups are a must."
+  },
+  {
+    "professor": "Prof. Mark Thompson",
+    "subject": "History of Western Civilization",
+    "stars": 2,
+    "review": "Prof. Thompson is knowledgeable, but his lectures are dry and hard to stay awake in."
+  },
+  {
+    "professor": "Dr. Lisa Brown",
+    "subject": "Data Structures",
+    "stars": 5,
+    "review": "One of the best professors I've had! She makes complex topics easy to understand and is very approachable."
+  },
+  {
+    "professor": "Prof. John Miller",
+    "subject": "Macroeconomics",
+    "stars": 4,
+    "review": "Good professor, but his lectures can be a bit fast-paced. Pay attention and you'll do fine."
+  },
+  {
+    "professor": "Dr. Angela Smith",
+    "subject": "Microbiology",
+    "stars": 3,
+    "review": "Dr. Smith is very knowledgeable, but she expects a lot from her students. Be prepared to work hard."
+  },
+  {
+    "professor": "Prof. Robert Johnson",
+    "subject": "Philosophy 101",
+    "stars": 5,
+    "review": "Prof. Johnson is awesome! He makes philosophy interesting and engaging."
+  },
+  {
+    "professor": "Dr. Mary Garcia",
+    "subject": "Physics II",
+    "stars": 2,
+    "review": "Dr. Garcia is tough. Her exams are really challenging, and her lectures are sometimes hard to follow."
+  },
+  {
+    "professor": "Prof. William Martinez",
+    "subject": "Creative Writing",
+    "stars": 4,
+    "review": "Prof. Martinez is a great mentor for aspiring writers. His feedback is invaluable."
+  },
+  {
+    "professor": "Dr. Kevin Wilson",
+    "subject": "Discrete Mathematics",
+    "stars": 3,
+    "review": "Dr. Wilson is okay, but his lectures can be a bit monotonous. It's hard to stay focused."
+  },
+  {
+    "professor": "Prof. Jessica Davis",
+    "subject": "Sociology 101",
+    "stars": 5,
+    "review": "Prof. Davis is fantastic! Her classes are interactive, and she genuinely cares about her students."
+  },
+  {
+    "professor": "Dr. Charles Taylor",
+    "subject": "Environmental Science",
+    "stars": 4,
+    "review": "Dr. Taylor is very passionate about the subject, but his exams are tricky. Study hard!"
+  },
+  {
+    "professor": "Prof. Jennifer White",
+    "subject": "Introduction to Programming",
+    "stars": 3,
+    "review": "Prof. White is a good teacher, but she moves quickly through the material. Keep up with the assignments."
+  },
+  {
+    "professor": "Dr. Daniel Harris",
+    "subject": "Anatomy and Physiology",
+    "stars": 5,
+    "review": "Dr. Harris is an amazing professor! His lectures are engaging, and he explains complex topics clearly."
+  },
+  {
+    "professor": "Prof. Susan Clark",
+    "subject": "Introduction to Literature",
+    "stars": 4,
+    "review": "Prof. Clark is great, but there's a lot of reading. Make sure to stay on top of the workload."
+  },
+  {
+    "professor": "Dr. Paul Lewis",
+    "subject": "Business Law",
+    "stars": 2,
+    "review": "Dr. Lewis knows the material, but his lectures are dry. I found it hard to stay interested."
+  },
+  {
+    "professor": "Prof. Nancy Hall",
+    "subject": "Art History",
+    "stars": 5,
+    "review": "Prof. Hall is fantastic! Her passion for art history is contagious, and her lectures are captivating."
+  },
+  {
+    "professor": "Dr. Steven Walker",
+    "subject": "Genetics",
+    "stars": 4,
+    "review": "Dr. Walker is a great professor, but his exams are tough. Make sure to study thoroughly."
+  },
+  {
+    "professor": "Prof. Laura Robinson",
+    "subject": "World Religions",
+    "stars": 3,
+    "review": "Prof. Robinson is knowledgeable, but her lectures can be a bit boring. The material is interesting, though."
+  }
+]
